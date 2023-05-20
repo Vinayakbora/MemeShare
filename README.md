@@ -13,10 +13,10 @@ Key Responsibilities and Achievements:
 
 Technologies Used:
 
-Kotlin, 
-Android Studio, 
-Android SDK, 
-Volley library for network communication, 
-Reddit API for fetching meme data
+1. Kotlin, 
+2. Android Studio, 
+3. Android SDK, 
+4. Volley library for network communication, 
+5. Reddit API for fetching meme data
 
 ![alt text](meme.jpg)
